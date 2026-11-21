@@ -22,7 +22,7 @@
   <img src="assets/logo-cuc.png" width="260" alt="Universidad de la Costa"/>
 </p>
 
-<img src="https://img.shields.io/badge/2do%20Semestre-Ingenier%C3%ADa%20de%20Software-1e40af?style=for-the-badge" alt="Semestre"/>
+<img src="https://img.shields.io/badge/2do%20Semestre-Desarrollo%20de%20Software-1e40af?style=for-the-badge" alt="Semestre"/>
 
 ## Mi Tech Stack
 
