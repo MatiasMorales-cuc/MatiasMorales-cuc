@@ -19,7 +19,7 @@
 ## Carrera
 
 <p>
-  <img src="assets/logo-cuc.png" width="260" alt="Universidad de la Costa"/>
+<img src="Logo_uni-costa.png" width="260" alt="Universidad de la Costa"/>
 </p>
 
 <img src="https://img.shields.io/badge/2do%20Semestre-Desarrollo%20de%20Software-1e40af?style=for-the-badge" alt="Semestre"/>
@@ -40,7 +40,7 @@
 - **Aprender:** siempre probando tecnologías y proyectos nuevos 
 
 <p align="center">
-  <img src="assets/clannad.jpg" width="600" alt="Clannad"/>
+  <img src="1138944.jpg" width="600" alt="Clannad"/>
   <br/>
   <sub> Anime favorito: Clannad </sub>
 </p>
